@@ -1,0 +1,15 @@
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\bin\Debug\net10.0\POOkemon.exe
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\bin\Debug\net10.0\POOkemon.deps.json
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\bin\Debug\net10.0\POOkemon.runtimeconfig.json
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\bin\Debug\net10.0\POOkemon.dll
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\bin\Debug\net10.0\POOkemon.pdb
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\obj\Debug\net10.0\POOkemon.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\obj\Debug\net10.0\POOkemon.AssemblyInfoInputs.cache
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\obj\Debug\net10.0\POOkemon.AssemblyInfo.cs
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\obj\Debug\net10.0\POOkemon.csproj.CoreCompileInputs.cache
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\obj\Debug\net10.0\POOkemon.sourcelink.json
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\obj\Debug\net10.0\POOkemon.dll
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\obj\Debug\net10.0\refint\POOkemon.dll
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\obj\Debug\net10.0\POOkemon.pdb
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\obj\Debug\net10.0\POOkemon.genruntimeconfig.cache
+D:\projetos\estrutura-de-dados\desafios\aula_04\POOkemon\obj\Debug\net10.0\ref\POOkemon.dll
